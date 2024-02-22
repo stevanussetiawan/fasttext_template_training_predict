@@ -1,0 +1,1 @@
+This guide provides a comprehensive template for training and predicting with FastText, an efficient text classification and representation learning tool created by Facebook's AI Research lab. Whether you're dealing with language identification, sentiment analysis, or any other form of text classification, this template will help you get started.
